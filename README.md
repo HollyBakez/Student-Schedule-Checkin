@@ -7,3 +7,7 @@ storing them into a dictionary essentially creating a student object.
 Allows users to then pull up a list of students enrolled in specific classes
 
 ie) Math 101 will display student 1, student 2, student 3 that are currently enrolled in that course
+
+
+UPDATE:
+HW_2 version uses classes, and allows a file to be read in to output the students versus manual input
